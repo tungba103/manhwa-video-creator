@@ -1,0 +1,22 @@
+# Python environments
+.env
+.venv/
+venv/
+ENV/
+env/
+*.env
+*.venv
+# Python bytecode
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+
+# Result folders
+0_images/
+1_clean-text/
+2_audio/
+3_video/
